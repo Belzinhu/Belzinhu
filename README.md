@@ -12,7 +12,7 @@
         </a>
     </div>
 </p>
-
+<br>
 <div align="center">
     <h2>📞 Contate-me</h2>
 </div>
