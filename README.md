@@ -1,14 +1,3 @@
-<div align="center">
-    <a href="https://github.com/Belzinhu/Belzinhu/blob/main/README.md" alt="English">
-        <img alt="Portuguese" src="https://img.shields.io/static/v1?style=for-the-badge&label=Lang&message=English&color=555555">
-    </a>
-</div>
-<div align="center">
-    <a href="https://github.com/Belzinhu/Belzinhu/blob/main/README.md" alt="Portuguese">
-        <img alt="Portuguese" src="https://img.shields.io/static/v1?style=for-the-badge&label=Traduzir%20para&message=Portugues&color=555555">
-    </a>
-</div>
-
 <img align="right" src="https://cdn.discordapp.com/attachments/880119123525402634/918547446601240758/094.png" style="width:350px; height:350px; border: 50px; max-width:100%;">
 
 
