@@ -1,5 +1,3 @@
-ines (110 sloc)  7.96 KB
-   
 <div align="center">
     <a href="https://github.com/Belzinhu/Belzinhu/blob/main/README.md" alt="English">
         <img alt="Portuguese" src="https://img.shields.io/static/v1?style=for-the-badge&label=Lang&message=English&color=555555">
