@@ -1,7 +1,7 @@
 <img align="right" src="https://cdn.discordapp.com/attachments/880119123525402634/918547446601240758/094.png" style="width:350px; height:350px; border: 50px; max-width:100%;">
 
 
-# Meu nome é Guilherme, altualmente tenho 13 anos!
+# Hi, my name is Guilherme, i live in Brazil.
 
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 <br>
 <div align="center">
-    <h2>📞 Contate-me</h2>
+    <h2>📞 Call me</h2>
 </div>
 <p align="center">
     <a href="mailto:guilhermedomingos2sanson@gmail.com">
@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-    <h2>📷 Mídias sociais</h2>
+    <h2>📷 Social Midia</h2>
 </div>
 <p align="center">
     <a href="https://discord.com/users/867827570275254313">
@@ -48,24 +48,3 @@
 </p>
 
 
-<div align="center">
-    <h2>📋 projetos Node Package Manager </h2>
-    <p align="center">
-    <a href="https://www.npmjs.com/package/data.ef">
-      <img alt="data.ef" src="https://img.shields.io/static/v1?label=NPM&message=data.ef&color=ff69b4?style=for-the-badge&logo=npm">
-      </a>
-     <a href="https://www.npmjs.com/package/docs-of-d.js">
-      <img alt="docs-of-d.js" src="https://img.shields.io/static/v1?label=NPM&message=docs-of-d.js&color=ff69b4?style=for-the-badge&logo=npm">    
-    </a>
-</div>
-
-<div align="center">
-    <h2>📈 Estatísticas</h2>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Belzinhu/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Belzinhu&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belzinhu&layout=compact&langs_count=7&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
-  </a>
-</div>
