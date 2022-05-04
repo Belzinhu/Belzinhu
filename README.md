@@ -35,7 +35,7 @@
 </p>
 
 <div align="center">
-    <h2>💻 Technologias</h2>
+    <h2>💻 Technologies</h2>
 </div>
     <p align="center">
         <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
